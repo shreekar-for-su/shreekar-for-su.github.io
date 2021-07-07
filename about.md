@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi👋 I am Shreekar Puranik, standing for Batch Representative, 2020 Batch, of SU BITS Pilani
 
-### More Information
+### My Work and Achievements
 
-A place to include any other types of information that you'd like to include about yourself.
+1. Founded an emergency response training non-profit, where we taught in schools and apartments CPR, the Heimlich manoeuvre, and how to identify strokes - this is the non-profit's website https://ert-emergency-response-training.business.site/
 
-### Contact me
+2. Invited to the UN because of my contribution the health SDG by organising CPR workshops, and teaching over a 1000 people.
 
-[email@domain.com](mailto:email@domain.com)
+3. Spoke at the UN headquaters in NYC, in front of dignitaries such as the Finnish ambassador to the UN. I was award the 1M1B 'future leader' award.
+
+4. Selected for the youth board of an NGO called Reap Benefit, where we hold Reap Benefit accountable while it encourages young people to solve local civic problems - https://reapbenefit.org/
