@@ -15,3 +15,7 @@ Hi👋 I am Shreekar Puranik, standing for Batch Representative, 2020 Batch, of 
 3. Spoke at the UN headquaters in NYC, in front of dignitaries such as the Finnish ambassador to the UN. I was award the 1M1B 'future leader' award
 
 4. Selected for the youth board of an NGO called [Reap Benefit](https://reapbenefit.org/), where we hold Reap Benefit accountable while it encourages young people to solve local civic problems 
+  
+### My Manifesto and SOP
+
+You can find my Manifesto and Statement of Purpose [here](https://shreekar-for-su.github.io/Manifesto%20and%20SOP%20final%20A70035.pdf)
